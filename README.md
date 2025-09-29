@@ -35,3 +35,14 @@ App-struktur
 
 ### Installasjon
 1. Klon repoet
+
+
+##  Dokumentasjon
+En mer detaljert forklaring av konseptet, funksjoner og koden finnes i prosjektmappen som en PDF-fil:
+
+- `Rapport PGR208 Eksamen Høst 2024.pdf`
+
+PDF-en beskriver:
+- Konsept og beskrivelse
+- Funksjonalitet i appen
+- Kodedokumentasjon og gjennomgang med skjermbilder av Android emulator
